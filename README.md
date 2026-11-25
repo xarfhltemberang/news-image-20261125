@@ -1,5 +1,9 @@
 # The World in One Day — 25 November 2026
 
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/xarfhltemberang/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/xarfhltemberang/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+
 A make.fun `news-image-20261125` bounty entry: one 1024×1024 image summing up
 the world's news of Wednesday 25 November 2026. Every story below was first
 reported on 25 November 2026 (in at least one time zone) and verified against
@@ -40,6 +44,16 @@ Reuters / BusinessWorld / FXStreet / ESA coverage published that day.
 - Every story's date was verified against real outlets before submission;
   the lead, markets, Australia and oil figures match the Reuters wires of
   25 November 2026 exactly.
+
+## Run it
+
+```sh
+python3 draw.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=xarfhltemberang&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
 
 ## License
 
